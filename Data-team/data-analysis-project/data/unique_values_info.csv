@@ -1,0 +1,1675 @@
+Column,Value,Count,Proportion
+grade,B,300,0.3
+grade,C,278,0.278
+grade,A,163,0.163
+grade,D,146,0.146
+grade,E,82,0.082
+grade,F,24,0.024
+grade,G,7,0.007
+sub_grade,B4,67,0.067
+sub_grade,B3,63,0.063
+sub_grade,B5,62,0.062
+sub_grade,C4,58,0.058
+sub_grade,C3,57,0.057
+sub_grade,C1,57,0.057
+sub_grade,B2,56,0.056
+sub_grade,C5,54,0.054
+sub_grade,B1,52,0.052
+sub_grade,C2,52,0.052
+sub_grade,A5,42,0.042
+sub_grade,D1,40,0.04
+sub_grade,D3,37,0.037
+sub_grade,A1,35,0.035
+sub_grade,A4,32,0.032
+sub_grade,D2,31,0.031
+sub_grade,A2,28,0.028
+sub_grade,A3,26,0.026
+sub_grade,D4,25,0.025
+sub_grade,E1,24,0.024
+sub_grade,E2,18,0.018
+sub_grade,E3,15,0.015
+sub_grade,E4,13,0.013
+sub_grade,D5,13,0.013
+sub_grade,E5,12,0.012
+sub_grade,F1,9,0.009
+sub_grade,F3,5,0.005
+sub_grade,F2,4,0.004
+sub_grade,F4,3,0.003
+sub_grade,F5,3,0.003
+sub_grade,G1,3,0.003
+sub_grade,G3,2,0.002
+sub_grade,G4,1,0.001
+sub_grade,G2,1,0.001
+emp_title,Manager,19,0.019
+emp_title,Teacher,17,0.017
+emp_title,Owner,10,0.01
+emp_title,Driver,8,0.008
+emp_title,President,7,0.007
+emp_title,Supervisor,7,0.007
+emp_title,Registered Nurse,6,0.006
+emp_title,Project Manager,5,0.005
+emp_title,Truck Driver,5,0.005
+emp_title,Administrator,4,0.004
+emp_title,Engineer,4,0.004
+emp_title,District Manager,4,0.004
+emp_title,driver,4,0.004
+emp_title,owner,4,0.004
+emp_title,Sales,3,0.003
+emp_title,Underwriter,3,0.003
+emp_title,Server,3,0.003
+emp_title,machinist,3,0.003
+emp_title,Technician,3,0.003
+emp_title,General Manager,3,0.003
+emp_title,RN,3,0.003
+emp_title,Accounting Manager,3,0.003
+emp_title,Bookkeeper,3,0.003
+emp_title,Office Manager,3,0.003
+emp_title,Accountant,3,0.003
+emp_title,technician,2,0.002
+emp_title,CEO,2,0.002
+emp_title,Customer service,2,0.002
+emp_title,Executive Assistant,2,0.002
+emp_title,Sr Financial Analyst,2,0.002
+emp_title,Mechanical Engineer,2,0.002
+emp_title,Assistant Principal,2,0.002
+emp_title,supervisor,2,0.002
+emp_title,Correctional Officer,2,0.002
+emp_title,office manager,2,0.002
+emp_title,Executive Chef,2,0.002
+emp_title,IT Manager,2,0.002
+emp_title,manager,2,0.002
+emp_title,Senior Software Engineer,2,0.002
+emp_title,Electrician,2,0.002
+emp_title,CSX TRANSPORTATION,2,0.002
+emp_title,Receptionist,2,0.002
+emp_title,administrative,2,0.002
+emp_title,sales,2,0.002
+emp_title,Broker,2,0.002
+emp_title,Laborer,2,0.002
+emp_title,Maintenance ,2,0.002
+emp_title,Estimator,2,0.002
+emp_title,Athletic Trainer,2,0.002
+emp_title,Bus driver,2,0.002
+emp_title,Quality Control,2,0.002
+emp_title,pharmacist,2,0.002
+emp_title,general manager,2,0.002
+emp_title,Program Manager,2,0.002
+emp_title,Consultant,2,0.002
+emp_title,Manager ,2,0.002
+emp_title,teacher,2,0.002
+emp_title,Vice President,2,0.002
+emp_title,Sales Manager,2,0.002
+emp_title,Foreman,2,0.002
+emp_title,Accounts Payable,2,0.002
+emp_title,Technical Support,1,0.001
+emp_title,Baylor Medical Center of Carrollton,1,0.001
+emp_title,Coordinator,1,0.001
+emp_title,Senior Logistics Manager,1,0.001
+emp_title,Electronics Lead,1,0.001
+emp_title,Member Service Rep,1,0.001
+emp_title,Restaurant Manager,1,0.001
+emp_title,mananger,1,0.001
+emp_title,Aetna,1,0.001
+emp_title,AUTOCAD Specialist,1,0.001
+emp_title,Shift manager,1,0.001
+emp_title,County of Los Angeles,1,0.001
+emp_title,Lead Staffing Consultant,1,0.001
+emp_title,Sr. Recruiter,1,0.001
+emp_title,installer,1,0.001
+emp_title,OWNER,1,0.001
+emp_title,Dr. Hal Shapiro DDS,1,0.001
+emp_title,Location Manager ,1,0.001
+emp_title,"C.S.T, 2",1,0.001
+emp_title,mechanic,1,0.001
+emp_title,Quality assurance laboratory personel ,1,0.001
+emp_title,SPECIAL AGENT,1,0.001
+emp_title,Contractor,1,0.001
+emp_title,Skilled Nursing auth coordinator,1,0.001
+emp_title,Facilities,1,0.001
+emp_title,CPA. Funding Specialist ,1,0.001
+emp_title,General manager,1,0.001
+emp_title,2nd Grade Teacher,1,0.001
+emp_title,T1 Advisor,1,0.001
+emp_title,Clerk/HSE,1,0.001
+emp_title,Development Associate,1,0.001
+emp_title,Account Manager,1,0.001
+emp_title,Crouse Medical Practice,1,0.001
+emp_title,Software Programmer,1,0.001
+emp_title,VP of Operations,1,0.001
+emp_title,Teacher/Coach,1,0.001
+emp_title,Marc's,1,0.001
+emp_title,Payroll Manager,1,0.001
+emp_title,Software Developer,1,0.001
+emp_title,Facilities Project Specialist,1,0.001
+emp_title,Music & Worship Pastor,1,0.001
+emp_title,"System Director, Infection Prevention",1,0.001
+emp_title,Dental Hygienist,1,0.001
+emp_title,Lead Project Manager,1,0.001
+emp_title,printer,1,0.001
+emp_title,Executive Secretary,1,0.001
+emp_title,Pharmacy ,1,0.001
+emp_title,Key Account Manager,1,0.001
+emp_title,Administrative Assistant ,1,0.001
+emp_title,security Guard,1,0.001
+emp_title,Store manager,1,0.001
+emp_title,Assistant General Manager,1,0.001
+emp_title,Director of Retail Operations ,1,0.001
+emp_title,Adjunct Transfer Advisor,1,0.001
+emp_title,Salez,1,0.001
+emp_title,Clinical lab scientist,1,0.001
+emp_title,IMS,1,0.001
+emp_title,QC/ R&D Technician,1,0.001
+emp_title,Senior IT Analyst,1,0.001
+emp_title,NEW YORK CITY TRANSIT,1,0.001
+emp_title,Bub Enterprises,1,0.001
+emp_title,QSPA ,1,0.001
+emp_title,Unite Eurotherapy,1,0.001
+emp_title,Athletic Director,1,0.001
+emp_title,Customer Service Lead,1,0.001
+emp_title,driver/ shipping receiving,1,0.001
+emp_title,"Diversified Technical Services, Inc.",1,0.001
+emp_title,cargill meat solutions,1,0.001
+emp_title,John Dempsey Hospital,1,0.001
+emp_title,Deputy sheriff,1,0.001
+emp_title,veterans justice outreach specialist,1,0.001
+emp_title,Accounts Payable Mgr,1,0.001
+emp_title,Senior Accountant,1,0.001
+emp_title,HTS Automation,1,0.001
+emp_title,Dental Assistant,1,0.001
+emp_title,Ministrr,1,0.001
+emp_title,partner,1,0.001
+emp_title,LEASING AGENT,1,0.001
+emp_title,"Vice President, Engineering",1,0.001
+emp_title,"Apple, Inc.",1,0.001
+emp_title,specialost,1,0.001
+emp_title,Assistant Superintendent,1,0.001
+emp_title,sales manager,1,0.001
+emp_title,Production planner/buyer,1,0.001
+emp_title,Resident Manager ,1,0.001
+emp_title,Operations Supervisor,1,0.001
+emp_title,Sr Field Engineer ,1,0.001
+emp_title,Road driver,1,0.001
+emp_title,Nurse Anesthetist,1,0.001
+emp_title,KIT Network Cabling,1,0.001
+emp_title,Compliance/General Manager,1,0.001
+emp_title,Mechanic,1,0.001
+emp_title,HR Generalist ,1,0.001
+emp_title,Jefferson County Public Schools,1,0.001
+emp_title,Speech Pathologist,1,0.001
+emp_title,Environmental planner,1,0.001
+emp_title,Training Sergeant,1,0.001
+emp_title,20th Century Fox,1,0.001
+emp_title,Design Engineer,1,0.001
+emp_title,"Senior Manager, Operations ",1,0.001
+emp_title,Shop Mgr.,1,0.001
+emp_title,Paralegal,1,0.001
+emp_title,tow truck driver,1,0.001
+emp_title,Business Development Manager,1,0.001
+emp_title,Owner operator,1,0.001
+emp_title,SERVICE MANAGER ,1,0.001
+emp_title,Medical Transcriptionist,1,0.001
+emp_title,Pro's Ranch Markets,1,0.001
+emp_title,Owner/Operator,1,0.001
+emp_title,West Pharmaceuticals,1,0.001
+emp_title,ES Supervisor,1,0.001
+emp_title,Valley Anesthesiology Consultants,1,0.001
+emp_title,firefighter,1,0.001
+emp_title,Sr.Tech Project Mgmt,1,0.001
+emp_title,Dept Director,1,0.001
+emp_title,Office Assistant,1,0.001
+emp_title,Franklin Glass,1,0.001
+emp_title,Sr. Technical Recruiter,1,0.001
+emp_title,National Sales Manager,1,0.001
+emp_title,van driver,1,0.001
+emp_title,Triage Nurse,1,0.001
+emp_title,Texas Health and Human Service Commissio,1,0.001
+emp_title,Engineering Estimatro,1,0.001
+emp_title,Utah Schools for the Deaf and the Blind,1,0.001
+emp_title,Electoral apprentice,1,0.001
+emp_title,Forman Electrician,1,0.001
+emp_title,Attorney/Shareholder,1,0.001
+emp_title,Locomotive Engineer,1,0.001
+emp_title,Associate Director of Annual Giving,1,0.001
+emp_title,Ringo's Casino,1,0.001
+emp_title,EMT,1,0.001
+emp_title,Police Lieutenant,1,0.001
+emp_title,System Analyst II,1,0.001
+emp_title,Purchasing Manager,1,0.001
+emp_title,Peoples Health,1,0.001
+emp_title,Equipment Engineer,1,0.001
+emp_title,Galpin Motors Inc.,1,0.001
+emp_title,armour and sons electric,1,0.001
+emp_title,Retreat Director,1,0.001
+emp_title,Maintenance technician,1,0.001
+emp_title,Operating engineer ,1,0.001
+emp_title,Lake Mary shell,1,0.001
+emp_title,steves place pizza,1,0.001
+emp_title,Welder,1,0.001
+emp_title,Director; Finance Manager,1,0.001
+emp_title,MDBAR LLC,1,0.001
+emp_title,Industrial Mechanic,1,0.001
+emp_title,Customer Service supervisor,1,0.001
+emp_title,Supervisor Manufacturing,1,0.001
+emp_title,Eastern Colorado Well Service,1,0.001
+emp_title,Clinician,1,0.001
+emp_title,Patient Access,1,0.001
+emp_title,store manger,1,0.001
+emp_title,Flight attendant,1,0.001
+emp_title,SUPERVISOR,1,0.001
+emp_title,Coleman Cable Inc,1,0.001
+emp_title,Assistant director of nursing,1,0.001
+emp_title,Senior Associate Pastor ,1,0.001
+emp_title,Claims processor,1,0.001
+emp_title,blackwell cisd,1,0.001
+emp_title,Vice President ,1,0.001
+emp_title,Sr Software Engineer,1,0.001
+emp_title,Secretary,1,0.001
+emp_title,SGASI Production Staging,1,0.001
+emp_title,Region Manager,1,0.001
+emp_title,Nursing Resource Management coordinator,1,0.001
+emp_title,ER Technician,1,0.001
+emp_title,Sebastopol Police Department,1,0.001
+emp_title,LIUNA Training and Education Fund,1,0.001
+emp_title,Member Advisor,1,0.001
+emp_title,payroll,1,0.001
+emp_title,Import Agent,1,0.001
+emp_title,Stores Clerk,1,0.001
+emp_title,Treasurer,1,0.001
+emp_title,BSA,1,0.001
+emp_title,Kitchen supervisor ,1,0.001
+emp_title,Maintenance Mechanic,1,0.001
+emp_title,Patient Accounts,1,0.001
+emp_title,WINDSONG RADIOLOGY GROUP,1,0.001
+emp_title,SPECIAL PROJECTS SUPERVISOR,1,0.001
+emp_title,Team Lead,1,0.001
+emp_title,Inpatient Unit Manager,1,0.001
+emp_title,Health Services Administrator,1,0.001
+emp_title,Fire Inspector,1,0.001
+emp_title,Medical Physicist,1,0.001
+emp_title,Human Resources Mgr.,1,0.001
+emp_title,Bulk Account Manager,1,0.001
+emp_title,sacred heart medical center riverbend,1,0.001
+emp_title,GM/VP,1,0.001
+emp_title,Analysis ,1,0.001
+emp_title,CONSUMER LOAN UNDERWRITER,1,0.001
+emp_title,Senior IT Consultant,1,0.001
+emp_title,"Clinical Manager, Nurse",1,0.001
+emp_title,United Airlines,1,0.001
+emp_title,pharmacy,1,0.001
+emp_title,CBCInnovis,1,0.001
+emp_title,Entertainment Server ,1,0.001
+emp_title,licensed banker,1,0.001
+emp_title,Cashier ,1,0.001
+emp_title,Mailhandler,1,0.001
+emp_title,GaN,1,0.001
+emp_title,drill foreman,1,0.001
+emp_title,Staff Assistant,1,0.001
+emp_title,Customer Servive,1,0.001
+emp_title,plaza medical center of fort worth,1,0.001
+emp_title,Processor,1,0.001
+emp_title,Occupational Therapist,1,0.001
+emp_title,Support Manager,1,0.001
+emp_title,owner/manager,1,0.001
+emp_title,Lead Certified Pharmacy Technician,1,0.001
+emp_title,Allstate Insurance Company,1,0.001
+emp_title,Histotechnician,1,0.001
+emp_title,Wooster Country Club,1,0.001
+emp_title,CFO,1,0.001
+emp_title,Courier,1,0.001
+emp_title,Analyst ,1,0.001
+emp_title,Sr. Programmer Analyst,1,0.001
+emp_title,Cypress Communications/Broadvox,1,0.001
+emp_title,Herman Utility Man ,1,0.001
+emp_title,Operations manager,1,0.001
+emp_title,IT Engineer,1,0.001
+emp_title,Vice President of Education,1,0.001
+emp_title,Firefighter ,1,0.001
+emp_title,Front Office Manager,1,0.001
+emp_title,Morning Show Host,1,0.001
+emp_title,Interim Graffiti Removal Specialist,1,0.001
+emp_title,AO,1,0.001
+emp_title,Vicepresident International Sales,1,0.001
+emp_title,Publix Supermarkets,1,0.001
+emp_title,Administrative Specialist,1,0.001
+emp_title,contract mechanic,1,0.001
+emp_title,Assistant principal,1,0.001
+emp_title,Team Member,1,0.001
+emp_title,Learning and Developing Specialist,1,0.001
+emp_title,Superintendent,1,0.001
+emp_title,Flight Operations,1,0.001
+emp_title,Sedgwick,1,0.001
+emp_title,STAFF SERGEANT/ DRILL SERGEANT,1,0.001
+emp_title,Energy Solutions Operations Manager,1,0.001
+emp_title,Lead Heavy Equipment Operator ,1,0.001
+emp_title,Quik Stop Markets  Inc,1,0.001
+emp_title,rn,1,0.001
+emp_title,Custodian,1,0.001
+emp_title,Patterson Dental,1,0.001
+emp_title,Congressional affairs,1,0.001
+emp_title,Sponsored Projects Analysts,1,0.001
+emp_title,Clerical,1,0.001
+emp_title,Saels Executive,1,0.001
+emp_title,Consumer Account Analyst,1,0.001
+emp_title,Lead tech ,1,0.001
+emp_title,Cloud Engineer ,1,0.001
+emp_title,ramp agent,1,0.001
+emp_title,Air Craft Engineering Drafter,1,0.001
+emp_title,Law enforcement officer,1,0.001
+emp_title,Actuarial Analyst,1,0.001
+emp_title,The Salvation Army,1,0.001
+emp_title,dentention service officer,1,0.001
+emp_title,Grocery manager,1,0.001
+emp_title,Regional Property Manager,1,0.001
+emp_title,Court Clerk,1,0.001
+emp_title,VP of Sales,1,0.001
+emp_title,Lead Photographer,1,0.001
+emp_title,Community Residential Services,1,0.001
+emp_title,homeowner claims adjuster ,1,0.001
+emp_title,Administrative Officer,1,0.001
+emp_title,Administrative Assitant,1,0.001
+emp_title,cnc machinist,1,0.001
+emp_title,Chha,1,0.001
+emp_title,Seargent First Class,1,0.001
+emp_title,Administrative officer,1,0.001
+emp_title,Oops Landfill Supervisor,1,0.001
+emp_title,Women and Infants Hospital,1,0.001
+emp_title,Pct,1,0.001
+emp_title,Bus Operator ,1,0.001
+emp_title,Insurance Sales,1,0.001
+emp_title,Utility worker,1,0.001
+emp_title,Penmark Management LLC.,1,0.001
+emp_title,Security guard,1,0.001
+emp_title,Auditor,1,0.001
+emp_title,Avionics Technician,1,0.001
+emp_title,City Manager,1,0.001
+emp_title,Director/Managing Partner,1,0.001
+emp_title,Outreach + Temporary Projects Manager,1,0.001
+emp_title,Direct Care Councellor,1,0.001
+emp_title,Director,1,0.001
+emp_title,Johns Hopkins University,1,0.001
+emp_title,Owner/Operator - truck driver,1,0.001
+emp_title,sergeant,1,0.001
+emp_title,Cad manager,1,0.001
+emp_title,Senior Pastor,1,0.001
+emp_title,Nuclear Supervisor,1,0.001
+emp_title,Sterile Processor,1,0.001
+emp_title,Contracting officer,1,0.001
+emp_title,MLB.COM,1,0.001
+emp_title,Departmental Analyst,1,0.001
+emp_title,Continues improvement engineer ,1,0.001
+emp_title,Operator,1,0.001
+emp_title,Clinical supervisor,1,0.001
+emp_title,Clinical Services Rep,1,0.001
+emp_title,"Director, Corporate Communication",1,0.001
+emp_title,Animals technician ,1,0.001
+emp_title,Judge,1,0.001
+emp_title,Claims Rep,1,0.001
+emp_title,Ophthalmic technician ,1,0.001
+emp_title,MANAGER ,1,0.001
+emp_title,Customer Care Operations Manger,1,0.001
+emp_title,Nurse Informatics Specialist,1,0.001
+emp_title,Tradition North America,1,0.001
+emp_title,senior programmer,1,0.001
+emp_title,Well site supervisor ,1,0.001
+emp_title,Registered Respiratory Therapist,1,0.001
+emp_title,factory worker,1,0.001
+emp_title,agency nurse,1,0.001
+emp_title,FO Accountant,1,0.001
+emp_title,Health Worker,1,0.001
+emp_title,Sales Support,1,0.001
+emp_title,Marketing Director,1,0.001
+emp_title,bar manager / event coordinator ,1,0.001
+emp_title,Medical Courier,1,0.001
+emp_title,Program Technician,1,0.001
+emp_title,Graphics Manager,1,0.001
+emp_title,Hardin Memorial Hospital,1,0.001
+emp_title,Senior Training Specialist,1,0.001
+emp_title,Cnc lead,1,0.001
+emp_title,Software QA Analyst,1,0.001
+emp_title,COMPUTER OPERATOR III,1,0.001
+emp_title,Certified Occupational Therapy Assistant,1,0.001
+emp_title,Vice President Field Operations,1,0.001
+emp_title,cutter operator,1,0.001
+emp_title,Social Worker,1,0.001
+emp_title,SRTS Program Manager,1,0.001
+emp_title,Family Resource Coordinator,1,0.001
+emp_title,Staff Sergeant,1,0.001
+emp_title,Gaylord Entertainment,1,0.001
+emp_title,Smithsonian Institution,1,0.001
+emp_title,UBS,1,0.001
+emp_title,Bakery manager,1,0.001
+emp_title,PROJECT MANAGER,1,0.001
+emp_title,Wrapper,1,0.001
+emp_title,The University of Kansas University,1,0.001
+emp_title,Research Assistant,1,0.001
+emp_title,Lab Supervisor,1,0.001
+emp_title,Operations Manager ,1,0.001
+emp_title,Loan officer,1,0.001
+emp_title,Dec/FSS,1,0.001
+emp_title,Raytheon,1,0.001
+emp_title,"CCT, PSI, and others",1,0.001
+emp_title,Instructional Technology Facilitator,1,0.001
+emp_title,President ,1,0.001
+emp_title,Territory Manager,1,0.001
+emp_title,Regional Director,1,0.001
+emp_title,Corporate Credit Manager,1,0.001
+emp_title,Operations Process Analyst,1,0.001
+emp_title,Account Executive ,1,0.001
+emp_title,TELECOMMUNICATIONS MECHANIC,1,0.001
+emp_title,Senior Account Manager,1,0.001
+emp_title,superintendent,1,0.001
+emp_title,city of farmington hills,1,0.001
+emp_title,Boiler Plant Operated,1,0.001
+emp_title,Area sales manager,1,0.001
+emp_title,Design Interiors/Tampa Wholesale Furnitu,1,0.001
+emp_title,South Island P S D,1,0.001
+emp_title,HVAC Technician,1,0.001
+emp_title,wrap and pack agent,1,0.001
+emp_title,Ramp Agent,1,0.001
+emp_title,Procurement Analyst,1,0.001
+emp_title,Analyst I,1,0.001
+emp_title,Hearing Officer,1,0.001
+emp_title,Systems Analyst,1,0.001
+emp_title,communicator,1,0.001
+emp_title,"Director, UME Evaluation",1,0.001
+emp_title,"Systems administrator, Senior",1,0.001
+emp_title,On Assignment,1,0.001
+emp_title,Personal Banker,1,0.001
+emp_title,Sr Manager,1,0.001
+emp_title,Sr. Designer,1,0.001
+emp_title,carman,1,0.001
+emp_title,receptionist ,1,0.001
+emp_title,Pre Foreclosure Specialist ,1,0.001
+emp_title,massage therapit,1,0.001
+emp_title,Private Mortgage,1,0.001
+emp_title,Portfolio Manager,1,0.001
+emp_title,Systems Accountant II,1,0.001
+emp_title,BUSINESS DIRECTOR,1,0.001
+emp_title,teller ,1,0.001
+emp_title,engineer,1,0.001
+emp_title,Caseworker IV,1,0.001
+emp_title,TRUCK DRIVER,1,0.001
+emp_title,Engineering Manager,1,0.001
+emp_title,Aviation Safety Inspector ,1,0.001
+emp_title,Analyst,1,0.001
+emp_title,Gardening Specialist,1,0.001
+emp_title,Admin intern/asst principal,1,0.001
+emp_title,Alliance Coal - Excel 3A,1,0.001
+emp_title,Hydro Pulper,1,0.001
+emp_title,Progressive Insurance ,1,0.001
+emp_title,PTA,1,0.001
+emp_title,machine operator,1,0.001
+emp_title,Assistant Manager,1,0.001
+emp_title,Jail Administrator,1,0.001
+emp_title,Business development,1,0.001
+emp_title,"Darden, Inc",1,0.001
+emp_title,Terminal Analyst,1,0.001
+emp_title,Enterprise Account Manager,1,0.001
+emp_title,SUPERVISORY SPECIAL AGENT,1,0.001
+emp_title,Data Acquisition Coordinator,1,0.001
+emp_title,Meadowbrook Insurance Group,1,0.001
+emp_title,Engineer Technician,1,0.001
+emp_title,Senior Delegation Specialist,1,0.001
+emp_title,BMC Software,1,0.001
+emp_title,senior computer network engineer,1,0.001
+emp_title,VP/Business Developement,1,0.001
+emp_title,Maintenance,1,0.001
+emp_title,pavao & sons construction,1,0.001
+emp_title,Dispatcher,1,0.001
+emp_title,Owner Operator,1,0.001
+emp_title,Red Rocket Merchandising Corp,1,0.001
+emp_title,Computer Technician,1,0.001
+emp_title,Maintenance supervisor,1,0.001
+emp_title,Warehouse,1,0.001
+emp_title,Technician ,1,0.001
+emp_title,Duke University,1,0.001
+emp_title,RPM MORTGAGE,1,0.001
+emp_title,Section Chief,1,0.001
+emp_title,Senior Valuation Specialist,1,0.001
+emp_title,Therapist,1,0.001
+emp_title,Lithographer,1,0.001
+emp_title,Institutional Relationship Manager,1,0.001
+emp_title,District Manager Georgia/Florida ,1,0.001
+emp_title,CompuCom Systems,1,0.001
+emp_title,cat scan tech,1,0.001
+emp_title,School Psychologist,1,0.001
+emp_title,Proposal Specialist,1,0.001
+emp_title,Finance & Procurement Analyst,1,0.001
+emp_title,Bodyman,1,0.001
+emp_title,industrail constuction,1,0.001
+emp_title,associate professor,1,0.001
+emp_title,Process Clerk,1,0.001
+emp_title,Correctional officer,1,0.001
+emp_title,pumper,1,0.001
+emp_title,Waitress /manager,1,0.001
+emp_title,Logistics,1,0.001
+emp_title,Corrections Officer,1,0.001
+emp_title,spa technician,1,0.001
+emp_title,Admininstrative Assistant,1,0.001
+emp_title,foreman,1,0.001
+emp_title,Office Staff,1,0.001
+emp_title,Field Supervisor,1,0.001
+emp_title,judge,1,0.001
+emp_title,account coordinator ,1,0.001
+emp_title,robbins mfg inc,1,0.001
+emp_title,Administrative Assistant,1,0.001
+emp_title,Assistant kiln operator,1,0.001
+emp_title,executive chef,1,0.001
+emp_title,Scottsdale Physicians Group,1,0.001
+emp_title,Program Engineer,1,0.001
+emp_title,Education Assistant,1,0.001
+emp_title,Paraprofessional,1,0.001
+emp_title,crew lead,1,0.001
+emp_title,Detention Sergeant,1,0.001
+emp_title,Material Master Analyst,1,0.001
+emp_title,Instrument Tech,1,0.001
+emp_title,CUSTOMER SERVICE REPRESENTATIVE,1,0.001
+emp_title,OR Charge Specialist,1,0.001
+emp_title,Nurse,1,0.001
+emp_title,Teacher Assistant,1,0.001
+emp_title,valley hospital,1,0.001
+emp_title,SA,1,0.001
+emp_title,Rivabella Restaurant,1,0.001
+emp_title,Reg. Dental assistant,1,0.001
+emp_title,Veterinarian,1,0.001
+emp_title,Security Officer,1,0.001
+emp_title,Direct support provider,1,0.001
+emp_title,Program specialist,1,0.001
+emp_title,ThinGap LLC,1,0.001
+emp_title,ORDER SELECTOR,1,0.001
+emp_title,FINANCIAL ADVISOR,1,0.001
+emp_title,Patient Service Rep,1,0.001
+emp_title,Trade Development Manager,1,0.001
+emp_title,Shop Manager,1,0.001
+emp_title,Escrow Manager,1,0.001
+emp_title,Psychiatric Technician,1,0.001
+emp_title,Watch Center Specialist,1,0.001
+emp_title,social work,1,0.001
+emp_title,Associate Professor ,1,0.001
+emp_title,PRODUCTION SUPERVISOR,1,0.001
+emp_title,Lic. Psychiatric Technician,1,0.001
+emp_title,Senior IT Manager,1,0.001
+emp_title,operater,1,0.001
+emp_title,Pumper,1,0.001
+emp_title,DRIVER,1,0.001
+emp_title,CAD Designer,1,0.001
+emp_title,Police Detective,1,0.001
+emp_title,Asst Director,1,0.001
+emp_title,Installation Coordinator,1,0.001
+emp_title,receptionist,1,0.001
+emp_title,"teacher, part time",1,0.001
+emp_title,Senior Inspector,1,0.001
+emp_title,Law Clerk,1,0.001
+emp_title,Billing Analyst,1,0.001
+emp_title,Creative Agency Services Team,1,0.001
+emp_title,Controller,1,0.001
+emp_title,EMT-B,1,0.001
+emp_title,Speech Language Pathologist,1,0.001
+emp_title,Asst Store Manager,1,0.001
+emp_title,Human Resources Director,1,0.001
+emp_title,Patient Scheduler,1,0.001
+emp_title,Assistant to the Superintendent,1,0.001
+emp_title,Sous Chef,1,0.001
+emp_title,Staffing manager,1,0.001
+emp_title,Public Service Professional,1,0.001
+emp_title,Truck driver,1,0.001
+emp_title,Sirius Computer Solutions,1,0.001
+emp_title,US Postal Service,1,0.001
+emp_title,Loan partner,1,0.001
+emp_title,Talent and Operations Senior Director,1,0.001
+emp_title,Material Handler,1,0.001
+emp_title,Signal Systems Specialist,1,0.001
+emp_title,Technology Manager,1,0.001
+emp_title,VP,1,0.001
+emp_title,Clerk,1,0.001
+emp_title,General Motors,1,0.001
+emp_title,counter manager,1,0.001
+emp_title,Editor/Author,1,0.001
+emp_title,Supervisor ,1,0.001
+emp_title,master electrician,1,0.001
+emp_title,Dean,1,0.001
+emp_title,Business Clerk,1,0.001
+emp_title,laboratory assistant ,1,0.001
+emp_title,Calibration Technician,1,0.001
+emp_title,Professor,1,0.001
+emp_title,David Clark Company Inc,1,0.001
+emp_title,Alliance Data Systems,1,0.001
+emp_title,inspector,1,0.001
+emp_title,Senior Business Analyst,1,0.001
+emp_title,SIU Adjuster,1,0.001
+emp_title,Finance Manager,1,0.001
+emp_title,Director of Medical Records,1,0.001
+emp_title,Albertsons,1,0.001
+emp_title,Resolution Specialist,1,0.001
+emp_title,Truck driver ,1,0.001
+emp_title,Sr. Account Executive,1,0.001
+emp_title,"Digital Chocolate, Inc.",1,0.001
+emp_title,Certified Ophthalmic Tecnician,1,0.001
+emp_title,SFM Security,1,0.001
+emp_title,financial analysis,1,0.001
+emp_title,Production Manager,1,0.001
+emp_title,Head Server,1,0.001
+emp_title,mobile mechanic,1,0.001
+emp_title,Senior Community Manager,1,0.001
+emp_title,RN ,1,0.001
+emp_title,Salesman,1,0.001
+emp_title,Prince Georges County Schools,1,0.001
+emp_title,TCS Program Director,1,0.001
+emp_title,New Visions Foundation,1,0.001
+emp_title,Admin. Assistant,1,0.001
+emp_title,"Novati Technologies, Inc",1,0.001
+emp_title,Electronics machine specialist ,1,0.001
+emp_title,Supervisor of Returns,1,0.001
+emp_title,USAA,1,0.001
+emp_title,Hubner Manufacturing USA,1,0.001
+emp_title,Maintenance Control ,1,0.001
+emp_title,PROGRESS RAIL SERVICES,1,0.001
+emp_title,"V. P. Claims, General Counsel",1,0.001
+emp_title,Senior National Recruiter,1,0.001
+emp_title,Tractor Tailor Driver,1,0.001
+emp_title,Shipping/Receiving Manager,1,0.001
+emp_title,Research Associate,1,0.001
+emp_title,"AVP, Loan Administrator",1,0.001
+emp_title,IT Consultant,1,0.001
+emp_title,Maison Dupuy Hotel,1,0.001
+emp_title,Associate Professor,1,0.001
+emp_title,Assistant,1,0.001
+emp_title,Early Childhood Specialist,1,0.001
+emp_title,On-Site IT Support Engineer,1,0.001
+emp_title,Associate Buyer,1,0.001
+emp_title,QA Manager ,1,0.001
+emp_title,Administrative Director,1,0.001
+emp_title,Secretary/Bookkeeper ,1,0.001
+emp_title,Asst. MGR.,1,0.001
+emp_title,Creative Director,1,0.001
+emp_title,Engineer ,1,0.001
+emp_title,Sr Production Control Clerk,1,0.001
+emp_title,Owner/master nail technician,1,0.001
+emp_title,Validation engineer ,1,0.001
+emp_title,Tech 2,1,0.001
+emp_title,ParentCorps Educator,1,0.001
+emp_title,HR Business Partne,1,0.001
+emp_title,Claims Examiner ,1,0.001
+emp_title,Cna,1,0.001
+emp_title,Waiter/Manager,1,0.001
+emp_title,GM,1,0.001
+emp_title,Motor while operator,1,0.001
+emp_title,Senior youth counselor,1,0.001
+emp_title,Sales account manager,1,0.001
+emp_title,Instructor,1,0.001
+emp_title,Learning & Development Facilitator,1,0.001
+emp_title,Senior Vice President,1,0.001
+emp_title,Buyer,1,0.001
+emp_title,DATA ENTRY,1,0.001
+emp_title,Director Supply Chain,1,0.001
+emp_title,home builder,1,0.001
+emp_title,UAB,1,0.001
+emp_title,Lab manager,1,0.001
+emp_title,dental technician,1,0.001
+emp_title,Mill Communications Manager,1,0.001
+emp_title,Exec Chef,1,0.001
+emp_title,Field technician,1,0.001
+emp_title,Attorney,1,0.001
+emp_title,Correction officer,1,0.001
+emp_title,Amber Ridge Assisted Living,1,0.001
+emp_title,President & CEO,1,0.001
+emp_title,electrican,1,0.001
+emp_title,Mca,1,0.001
+emp_title,Senior Scientist,1,0.001
+emp_title,"ebm papst, Inc",1,0.001
+emp_title,Pharmacy Tech,1,0.001
+emp_title,OPERATOR,1,0.001
+emp_title,Ramp worker,1,0.001
+emp_title,Marketing Representative,1,0.001
+emp_title,Machine Operator,1,0.001
+emp_title,Director of Plant Operations and Environ,1,0.001
+emp_title,Sergeant of Police,1,0.001
+emp_title,Service tech,1,0.001
+emp_title,computer tech,1,0.001
+emp_title,National Account Manager,1,0.001
+emp_title,maintenance,1,0.001
+emp_title,Personal Trainer,1,0.001
+emp_title,Evergreen Cemetery,1,0.001
+emp_title,IT Administrator,1,0.001
+emp_title,Off Road Delivery (Fedex Ground),1,0.001
+emp_title,Regiona Sales Maanger,1,0.001
+emp_title,Associate,1,0.001
+emp_title,Bariatric Assistant,1,0.001
+emp_title,Associate Account Manager,1,0.001
+emp_title,SALES,1,0.001
+emp_title,Outside Sales,1,0.001
+emp_title,Accounts Payable ,1,0.001
+emp_title,Produce Selectors,1,0.001
+emp_title,"farmers grain terminal,inc",1,0.001
+emp_title,Internal Revenue Service,1,0.001
+emp_title,Pharmacist,1,0.001
+emp_title,Sutter Medical Foundation,1,0.001
+emp_title,PC/LAN Analyst 3,1,0.001
+emp_title,Foreman ,1,0.001
+emp_title,Staples,1,0.001
+emp_title,Astrella Corporation,1,0.001
+emp_title,Electricisn,1,0.001
+emp_title,social worker,1,0.001
+emp_title,Maximum Towing,1,0.001
+emp_title,Rail Operations Analyst,1,0.001
+emp_title,vice pres,1,0.001
+emp_title,solo practitioner,1,0.001
+emp_title,VP/CTO,1,0.001
+emp_title,Parts Specialist,1,0.001
+emp_title,Transplant Financial Coordinator,1,0.001
+emp_title,dentist,1,0.001
+emp_title,courier,1,0.001
+emp_title,Owner ,1,0.001
+emp_title,Sr. Property Manager ,1,0.001
+emp_title,Gracie Square Hospital,1,0.001
+emp_title,Amphastar Pharm.,1,0.001
+emp_title,Marketing Manager,1,0.001
+emp_title,Financial Analyst,1,0.001
+emp_title,documentation specialist,1,0.001
+emp_title,Appliance Department Manager,1,0.001
+emp_title,Staff nurse,1,0.001
+emp_title,Information Technology Specialist,1,0.001
+emp_title,San Francisco Endoscopy Center,1,0.001
+emp_title,HEB ISD,1,0.001
+emp_title,Financial Services Manager,1,0.001
+emp_title,CAT Scan Tech,1,0.001
+emp_title,Abbott Laboratories,1,0.001
+emp_title,Asst. Principal,1,0.001
+emp_title,Customer Logistics Manager,1,0.001
+emp_title,Power Foreman,1,0.001
+emp_title,Web developer,1,0.001
+emp_title,Reservation Intl Agent,1,0.001
+emp_title,Forman,1,0.001
+emp_title,courtesy associate,1,0.001
+emp_title,Program Representative I,1,0.001
+emp_title,Para,1,0.001
+emp_title,Contract Specialist,1,0.001
+emp_title,Certified Nurse Assistant,1,0.001
+emp_title,Ramey,1,0.001
+emp_title,petsmart,1,0.001
+emp_title,Encore Merchandising,1,0.001
+emp_title,Programmer ,1,0.001
+emp_title,Portfolio manager,1,0.001
+emp_title,Psychologist,1,0.001
+emp_title,Maple Press,1,0.001
+emp_title,Auditor ,1,0.001
+emp_title,Clinical Receptionist II,1,0.001
+emp_title,Project Mgr,1,0.001
+emp_title,Nursing Assistant,1,0.001
+emp_title,Claims adjuster,1,0.001
+emp_title,correctional Officer ,1,0.001
+emp_title,Mortgage Loan Specialist,1,0.001
+emp_title,plasma sprayer,1,0.001
+emp_title,Service Agent,1,0.001
+emp_title,OneBlood Inc,1,0.001
+emp_title,Kohl's,1,0.001
+emp_title,Dispatcher trucking and Sales,1,0.001
+emp_title,Machine operator,1,0.001
+emp_title,representative,1,0.001
+emp_title,Citrix Systems,1,0.001
+emp_title,Quarter Master,1,0.001
+emp_title,City of Albany,1,0.001
+emp_title,Officer Manager,1,0.001
+emp_title,Executive Legal Admin Asst,1,0.001
+emp_title,Sales Representative,1,0.001
+emp_title,truck driver,1,0.001
+emp_title,Retail associate manager,1,0.001
+emp_title,Remote Payment spec,1,0.001
+emp_title,Project Manager II,1,0.001
+emp_title,Senior Financial Analyst,1,0.001
+emp_title,Supervisor II,1,0.001
+emp_length,10+ years,345,0.345
+emp_length,2 years,95,0.095
+emp_length,3 years,80,0.08
+emp_length,< 1 year,67,0.067
+emp_length,1 year,61,0.061
+emp_length,5 years,54,0.054
+emp_length,4 years,54,0.054
+emp_length,7 years,52,0.052
+emp_length,8 years,51,0.051
+emp_length,6 years,48,0.048
+emp_length,9 years,22,0.022
+home_ownership,MORTGAGE,505,0.505
+home_ownership,RENT,384,0.384
+home_ownership,OWN,111,0.111
+verification_status,Source Verified,380,0.38
+verification_status,Verified,316,0.316
+verification_status,Not Verified,304,0.304
+loan_status,Fully Paid,792,0.792
+loan_status,Charged Off,208,0.208
+purpose,debt_consolidation,580,0.58
+purpose,credit_card,231,0.231
+purpose,home_improvement,63,0.063
+purpose,other,50,0.05
+purpose,major_purchase,22,0.022
+purpose,medical,16,0.016
+purpose,small_business,12,0.012
+purpose,vacation,11,0.011
+purpose,car,6,0.006
+purpose,house,4,0.004
+purpose,moving,3,0.003
+purpose,educational,1,0.001
+purpose,wedding,1,0.001
+zip_code,945xx,13,0.013
+zip_code,112xx,12,0.012
+zip_code,750xx,11,0.011
+zip_code,330xx,11,0.011
+zip_code,334xx,10,0.01
+zip_code,117xx,9,0.009
+zip_code,070xx,9,0.009
+zip_code,917xx,9,0.009
+zip_code,900xx,8,0.008
+zip_code,300xx,8,0.008
+zip_code,891xx,8,0.008
+zip_code,802xx,8,0.008
+zip_code,853xx,8,0.008
+zip_code,913xx,8,0.008
+zip_code,328xx,7,0.007
+zip_code,852xx,7,0.007
+zip_code,327xx,7,0.007
+zip_code,207xx,7,0.007
+zip_code,302xx,7,0.007
+zip_code,773xx,7,0.007
+zip_code,080xx,7,0.007
+zip_code,331xx,7,0.007
+zip_code,928xx,6,0.006
+zip_code,322xx,6,0.006
+zip_code,301xx,6,0.006
+zip_code,282xx,6,0.006
+zip_code,060xx,6,0.006
+zip_code,921xx,6,0.006
+zip_code,967xx,6,0.006
+zip_code,606xx,6,0.006
+zip_code,850xx,6,0.006
+zip_code,956xx,6,0.006
+zip_code,600xx,6,0.006
+zip_code,088xx,6,0.006
+zip_code,337xx,6,0.006
+zip_code,100xx,6,0.006
+zip_code,553xx,6,0.006
+zip_code,941xx,5,0.005
+zip_code,902xx,5,0.005
+zip_code,752xx,5,0.005
+zip_code,957xx,5,0.005
+zip_code,275xx,5,0.005
+zip_code,940xx,5,0.005
+zip_code,021xx,5,0.005
+zip_code,077xx,5,0.005
+zip_code,949xx,5,0.005
+zip_code,333xx,5,0.005
+zip_code,760xx,5,0.005
+zip_code,104xx,5,0.005
+zip_code,446xx,5,0.005
+zip_code,770xx,5,0.005
+zip_code,895xx,5,0.005
+zip_code,452xx,4,0.004
+zip_code,208xx,4,0.004
+zip_code,019xx,4,0.004
+zip_code,335xx,4,0.004
+zip_code,554xx,4,0.004
+zip_code,751xx,4,0.004
+zip_code,480xx,4,0.004
+zip_code,980xx,4,0.004
+zip_code,930xx,4,0.004
+zip_code,430xx,4,0.004
+zip_code,347xx,4,0.004
+zip_code,462xx,4,0.004
+zip_code,294xx,4,0.004
+zip_code,951xx,4,0.004
+zip_code,120xx,4,0.004
+zip_code,338xx,4,0.004
+zip_code,805xx,4,0.004
+zip_code,531xx,4,0.004
+zip_code,336xx,4,0.004
+zip_code,113xx,4,0.004
+zip_code,432xx,4,0.004
+zip_code,284xx,4,0.004
+zip_code,744xx,4,0.004
+zip_code,946xx,3,0.003
+zip_code,840xx,3,0.003
+zip_code,841xx,3,0.003
+zip_code,923xx,3,0.003
+zip_code,935xx,3,0.003
+zip_code,018xx,3,0.003
+zip_code,485xx,3,0.003
+zip_code,103xx,3,0.003
+zip_code,620xx,3,0.003
+zip_code,983xx,3,0.003
+zip_code,067xx,3,0.003
+zip_code,245xx,3,0.003
+zip_code,441xx,3,0.003
+zip_code,765xx,3,0.003
+zip_code,064xx,3,0.003
+zip_code,894xx,3,0.003
+zip_code,782xx,3,0.003
+zip_code,481xx,3,0.003
+zip_code,283xx,3,0.003
+zip_code,919xx,3,0.003
+zip_code,329xx,3,0.003
+zip_code,190xx,3,0.003
+zip_code,875xx,3,0.003
+zip_code,483xx,3,0.003
+zip_code,774xx,3,0.003
+zip_code,380xx,3,0.003
+zip_code,809xx,3,0.003
+zip_code,730xx,3,0.003
+zip_code,604xx,3,0.003
+zip_code,890xx,3,0.003
+zip_code,062xx,3,0.003
+zip_code,370xx,3,0.003
+zip_code,905xx,3,0.003
+zip_code,775xx,3,0.003
+zip_code,339xx,3,0.003
+zip_code,346xx,3,0.003
+zip_code,910xx,3,0.003
+zip_code,550xx,3,0.003
+zip_code,906xx,3,0.003
+zip_code,926xx,3,0.003
+zip_code,278xx,3,0.003
+zip_code,431xx,3,0.003
+zip_code,494xx,3,0.003
+zip_code,111xx,3,0.003
+zip_code,144xx,3,0.003
+zip_code,871xx,3,0.003
+zip_code,221xx,3,0.003
+zip_code,028xx,3,0.003
+zip_code,488xx,3,0.003
+zip_code,925xx,3,0.003
+zip_code,133xx,2,0.002
+zip_code,128xx,2,0.002
+zip_code,124xx,2,0.002
+zip_code,073xx,2,0.002
+zip_code,402xx,2,0.002
+zip_code,395xx,2,0.002
+zip_code,105xx,2,0.002
+zip_code,974xx,2,0.002
+zip_code,490xx,2,0.002
+zip_code,198xx,2,0.002
+zip_code,295xx,2,0.002
+zip_code,484xx,2,0.002
+zip_code,061xx,2,0.002
+zip_code,660xx,2,0.002
+zip_code,908xx,2,0.002
+zip_code,191xx,2,0.002
+zip_code,700xx,2,0.002
+zip_code,243xx,2,0.002
+zip_code,958xx,2,0.002
+zip_code,605xx,2,0.002
+zip_code,607xx,2,0.002
+zip_code,463xx,2,0.002
+zip_code,551xx,2,0.002
+zip_code,291xx,2,0.002
+zip_code,153xx,2,0.002
+zip_code,297xx,2,0.002
+zip_code,741xx,2,0.002
+zip_code,534xx,2,0.002
+zip_code,201xx,2,0.002
+zip_code,776xx,2,0.002
+zip_code,959xx,2,0.002
+zip_code,212xx,2,0.002
+zip_code,713xx,2,0.002
+zip_code,603xx,2,0.002
+zip_code,740xx,2,0.002
+zip_code,954xx,2,0.002
+zip_code,257xx,2,0.002
+zip_code,766xx,2,0.002
+zip_code,948xx,2,0.002
+zip_code,731xx,2,0.002
+zip_code,226xx,2,0.002
+zip_code,142xx,2,0.002
+zip_code,027xx,2,0.002
+zip_code,193xx,2,0.002
+zip_code,368xx,2,0.002
+zip_code,365xx,2,0.002
+zip_code,292xx,2,0.002
+zip_code,385xx,2,0.002
+zip_code,630xx,2,0.002
+zip_code,180xx,2,0.002
+zip_code,710xx,2,0.002
+zip_code,544xx,2,0.002
+zip_code,276xx,2,0.002
+zip_code,937xx,2,0.002
+zip_code,025xx,2,0.002
+zip_code,992xx,2,0.002
+zip_code,622xx,2,0.002
+zip_code,932xx,2,0.002
+zip_code,672xx,2,0.002
+zip_code,718xx,2,0.002
+zip_code,442xx,2,0.002
+zip_code,981xx,2,0.002
+zip_code,785xx,2,0.002
+zip_code,152xx,2,0.002
+zip_code,286xx,2,0.002
+zip_code,662xx,2,0.002
+zip_code,386xx,2,0.002
+zip_code,982xx,2,0.002
+zip_code,633xx,2,0.002
+zip_code,989xx,2,0.002
+zip_code,453xx,2,0.002
+zip_code,320xx,2,0.002
+zip_code,140xx,2,0.002
+zip_code,460xx,2,0.002
+zip_code,797xx,2,0.002
+zip_code,321xx,2,0.002
+zip_code,296xx,2,0.002
+zip_code,795xx,2,0.002
+zip_code,170xx,2,0.002
+zip_code,151xx,2,0.002
+zip_code,657xx,2,0.002
+zip_code,757xx,2,0.002
+zip_code,626xx,2,0.002
+zip_code,125xx,2,0.002
+zip_code,220xx,2,0.002
+zip_code,762xx,2,0.002
+zip_code,287xx,2,0.002
+zip_code,571xx,2,0.002
+zip_code,299xx,2,0.002
+zip_code,114xx,2,0.002
+zip_code,804xx,2,0.002
+zip_code,401xx,2,0.002
+zip_code,970xx,2,0.002
+zip_code,986xx,2,0.002
+zip_code,631xx,2,0.002
+zip_code,953xx,2,0.002
+zip_code,310xx,2,0.002
+zip_code,272xx,2,0.002
+zip_code,601xx,2,0.002
+zip_code,707xx,2,0.002
+zip_code,493xx,2,0.002
+zip_code,950xx,2,0.002
+zip_code,783xx,2,0.002
+zip_code,148xx,1,0.001
+zip_code,482xx,1,0.001
+zip_code,071xx,1,0.001
+zip_code,458xx,1,0.001
+zip_code,705xx,1,0.001
+zip_code,542xx,1,0.001
+zip_code,373xx,1,0.001
+zip_code,138xx,1,0.001
+zip_code,532xx,1,0.001
+zip_code,722xx,1,0.001
+zip_code,664xx,1,0.001
+zip_code,082xx,1,0.001
+zip_code,424xx,1,0.001
+zip_code,165xx,1,0.001
+zip_code,063xx,1,0.001
+zip_code,993xx,1,0.001
+zip_code,388xx,1,0.001
+zip_code,448xx,1,0.001
+zip_code,936xx,1,0.001
+zip_code,933xx,1,0.001
+zip_code,079xx,1,0.001
+zip_code,232xx,1,0.001
+zip_code,920xx,1,0.001
+zip_code,032xx,1,0.001
+zip_code,596xx,1,0.001
+zip_code,825xx,1,0.001
+zip_code,496xx,1,0.001
+zip_code,471xx,1,0.001
+zip_code,907xx,1,0.001
+zip_code,404xx,1,0.001
+zip_code,423xx,1,0.001
+zip_code,727xx,1,0.001
+zip_code,033xx,1,0.001
+zip_code,944xx,1,0.001
+zip_code,085xx,1,0.001
+zip_code,706xx,1,0.001
+zip_code,229xx,1,0.001
+zip_code,383xx,1,0.001
+zip_code,318xx,1,0.001
+zip_code,786xx,1,0.001
+zip_code,543xx,1,0.001
+zip_code,185xx,1,0.001
+zip_code,054xx,1,0.001
+zip_code,628xx,1,0.001
+zip_code,222xx,1,0.001
+zip_code,381xx,1,0.001
+zip_code,022xx,1,0.001
+zip_code,319xx,1,0.001
+zip_code,788xx,1,0.001
+zip_code,539xx,1,0.001
+zip_code,447xx,1,0.001
+zip_code,231xx,1,0.001
+zip_code,836xx,1,0.001
+zip_code,106xx,1,0.001
+zip_code,011xx,1,0.001
+zip_code,178xx,1,0.001
+zip_code,857xx,1,0.001
+zip_code,116xx,1,0.001
+zip_code,171xx,1,0.001
+zip_code,110xx,1,0.001
+zip_code,440xx,1,0.001
+zip_code,721xx,1,0.001
+zip_code,729xx,1,0.001
+zip_code,794xx,1,0.001
+zip_code,591xx,1,0.001
+zip_code,922xx,1,0.001
+zip_code,870xx,1,0.001
+zip_code,130xx,1,0.001
+zip_code,042xx,1,0.001
+zip_code,076xx,1,0.001
+zip_code,916xx,1,0.001
+zip_code,075xx,1,0.001
+zip_code,585xx,1,0.001
+zip_code,781xx,1,0.001
+zip_code,801xx,1,0.001
+zip_code,230xx,1,0.001
+zip_code,314xx,1,0.001
+zip_code,355xx,1,0.001
+zip_code,439xx,1,0.001
+zip_code,241xx,1,0.001
+zip_code,728xx,1,0.001
+zip_code,467xx,1,0.001
+zip_code,914xx,1,0.001
+zip_code,915xx,1,0.001
+zip_code,641xx,1,0.001
+zip_code,436xx,1,0.001
+zip_code,194xx,1,0.001
+zip_code,555xx,1,0.001
+zip_code,656xx,1,0.001
+zip_code,799xx,1,0.001
+zip_code,081xx,1,0.001
+zip_code,678xx,1,0.001
+zip_code,582xx,1,0.001
+zip_code,640xx,1,0.001
+zip_code,415xx,1,0.001
+zip_code,236xx,1,0.001
+zip_code,754xx,1,0.001
+zip_code,290xx,1,0.001
+zip_code,790xx,1,0.001
+zip_code,444xx,1,0.001
+zip_code,897xx,1,0.001
+zip_code,580xx,1,0.001
+zip_code,361xx,1,0.001
+zip_code,661xx,1,0.001
+zip_code,422xx,1,0.001
+zip_code,161xx,1,0.001
+zip_code,587xx,1,0.001
+zip_code,277xx,1,0.001
+zip_code,474xx,1,0.001
+zip_code,416xx,1,0.001
+zip_code,800xx,1,0.001
+zip_code,109xx,1,0.001
+zip_code,156xx,1,0.001
+zip_code,065xx,1,0.001
+zip_code,560xx,1,0.001
+zip_code,362xx,1,0.001
+zip_code,903xx,1,0.001
+zip_code,223xx,1,0.001
+zip_code,971xx,1,0.001
+zip_code,792xx,1,0.001
+zip_code,778xx,1,0.001
+zip_code,530xx,1,0.001
+zip_code,405xx,1,0.001
+zip_code,390xx,1,0.001
+zip_code,681xx,1,0.001
+zip_code,939xx,1,0.001
+zip_code,461xx,1,0.001
+zip_code,254xx,1,0.001
+zip_code,451xx,1,0.001
+zip_code,012xx,1,0.001
+zip_code,586xx,1,0.001
+zip_code,313xx,1,0.001
+zip_code,806xx,1,0.001
+zip_code,325xx,1,0.001
+zip_code,747xx,1,0.001
+zip_code,617xx,1,0.001
+zip_code,015xx,1,0.001
+zip_code,040xx,1,0.001
+zip_code,724xx,1,0.001
+zip_code,610xx,1,0.001
+zip_code,558xx,1,0.001
+zip_code,281xx,1,0.001
+zip_code,305xx,1,0.001
+zip_code,434xx,1,0.001
+zip_code,225xx,1,0.001
+zip_code,787xx,1,0.001
+zip_code,864xx,1,0.001
+zip_code,714xx,1,0.001
+zip_code,228xx,1,0.001
+zip_code,303xx,1,0.001
+zip_code,014xx,1,0.001
+zip_code,701xx,1,0.001
+zip_code,350xx,1,0.001
+zip_code,479xx,1,0.001
+zip_code,612xx,1,0.001
+zip_code,874xx,1,0.001
+zip_code,410xx,1,0.001
+zip_code,078xx,1,0.001
+zip_code,497xx,1,0.001
+zip_code,162xx,1,0.001
+zip_code,069xx,1,0.001
+zip_code,351xx,1,0.001
+zip_code,465xx,1,0.001
+zip_code,366xx,1,0.001
+zip_code,056xx,1,0.001
+zip_code,435xx,1,0.001
+zip_code,298xx,1,0.001
+zip_code,177xx,1,0.001
+zip_code,349xx,1,0.001
+zip_code,068xx,1,0.001
+zip_code,316xx,1,0.001
+zip_code,904xx,1,0.001
+zip_code,456xx,1,0.001
+zip_code,217xx,1,0.001
+zip_code,595xx,1,0.001
+zip_code,023xx,1,0.001
+zip_code,072xx,1,0.001
+zip_code,186xx,1,0.001
+zip_code,644xx,1,0.001
+zip_code,038xx,1,0.001
+zip_code,985xx,1,0.001
+zip_code,573xx,1,0.001
+zip_code,159xx,1,0.001
+zip_code,317xx,1,0.001
+zip_code,274xx,1,0.001
+zip_code,994xx,1,0.001
+zip_code,174xx,1,0.001
+zip_code,780xx,1,0.001
+zip_code,668xx,1,0.001
+zip_code,791xx,1,0.001
+zip_code,704xx,1,0.001
+zip_code,219xx,1,0.001
+zip_code,688xx,1,0.001
+zip_code,618xx,1,0.001
+zip_code,486xx,1,0.001
+zip_code,975xx,1,0.001
+zip_code,535xx,1,0.001
+zip_code,977xx,1,0.001
+zip_code,250xx,1,0.001
+addr_state,CA,146,0.146
+addr_state,FL,90,0.09
+addr_state,TX,77,0.077
+addr_state,NY,72,0.072
+addr_state,NJ,38,0.038
+addr_state,OH,38,0.038
+addr_state,IL,36,0.036
+addr_state,NC,32,0.032
+addr_state,GA,30,0.03
+addr_state,MI,29,0.029
+addr_state,PA,29,0.029
+addr_state,VA,24,0.024
+addr_state,AZ,23,0.023
+addr_state,MA,22,0.022
+addr_state,CT,21,0.021
+addr_state,WA,20,0.02
+addr_state,CO,20,0.02
+addr_state,NV,20,0.02
+addr_state,SC,18,0.018
+addr_state,MN,18,0.018
+addr_state,MD,15,0.015
+addr_state,OK,14,0.014
+addr_state,WI,14,0.014
+addr_state,IN,14,0.014
+addr_state,LA,13,0.013
+addr_state,KY,12,0.012
+addr_state,MO,12,0.012
+addr_state,TN,11,0.011
+addr_state,KS,10,0.01
+addr_state,AL,10,0.01
+addr_state,NM,8,0.008
+addr_state,AR,8,0.008
+addr_state,OR,7,0.007
+addr_state,MS,6,0.006
+addr_state,UT,6,0.006
+addr_state,HI,6,0.006
+addr_state,ND,5,0.005
+addr_state,WV,4,0.004
+addr_state,RI,3,0.003
+addr_state,SD,3,0.003
+addr_state,MT,3,0.003
+addr_state,NH,3,0.003
+addr_state,VT,2,0.002
+addr_state,ME,2,0.002
+addr_state,DE,2,0.002
+addr_state,NE,2,0.002
+addr_state,WY,1,0.001
+addr_state,ID,1,0.001
+earliest_cr_line,Aug-2000,10,0.01
+earliest_cr_line,Aug-2001,10,0.01
+earliest_cr_line,Dec-1998,10,0.01
+earliest_cr_line,Sep-2002,9,0.009
+earliest_cr_line,Feb-2002,9,0.009
+earliest_cr_line,Sep-2001,9,0.009
+earliest_cr_line,Jun-2003,8,0.008
+earliest_cr_line,May-2000,8,0.008
+earliest_cr_line,Mar-2004,8,0.008
+earliest_cr_line,Jun-2004,8,0.008
+earliest_cr_line,Aug-2006,8,0.008
+earliest_cr_line,Nov-1998,8,0.008
+earliest_cr_line,Jun-2000,8,0.008
+earliest_cr_line,Jul-2004,8,0.008
+earliest_cr_line,Oct-2004,8,0.008
+earliest_cr_line,Sep-2006,8,0.008
+earliest_cr_line,Sep-2004,8,0.008
+earliest_cr_line,Aug-2007,7,0.007
+earliest_cr_line,Jun-2002,7,0.007
+earliest_cr_line,Feb-2003,7,0.007
+earliest_cr_line,Aug-1993,7,0.007
+earliest_cr_line,Nov-2001,7,0.007
+earliest_cr_line,Oct-2006,7,0.007
+earliest_cr_line,Aug-1995,7,0.007
+earliest_cr_line,Mar-2000,7,0.007
+earliest_cr_line,Jun-2001,7,0.007
+earliest_cr_line,Jan-1999,7,0.007
+earliest_cr_line,Feb-1996,7,0.007
+earliest_cr_line,Sep-1996,7,0.007
+earliest_cr_line,Sep-1998,7,0.007
+earliest_cr_line,Aug-2003,7,0.007
+earliest_cr_line,Dec-2001,7,0.007
+earliest_cr_line,Jan-2000,6,0.006
+earliest_cr_line,Aug-1998,6,0.006
+earliest_cr_line,Oct-1997,6,0.006
+earliest_cr_line,Jul-2002,6,0.006
+earliest_cr_line,Sep-2000,6,0.006
+earliest_cr_line,Oct-2002,6,0.006
+earliest_cr_line,May-1996,6,0.006
+earliest_cr_line,Mar-2005,6,0.006
+earliest_cr_line,May-2003,6,0.006
+earliest_cr_line,Feb-2005,6,0.006
+earliest_cr_line,Mar-2003,6,0.006
+earliest_cr_line,Dec-2002,6,0.006
+earliest_cr_line,Feb-2004,6,0.006
+earliest_cr_line,Sep-2003,6,0.006
+earliest_cr_line,Jul-2006,6,0.006
+earliest_cr_line,Aug-2005,6,0.006
+earliest_cr_line,Nov-1999,5,0.005
+earliest_cr_line,Dec-1989,5,0.005
+earliest_cr_line,May-1999,5,0.005
+earliest_cr_line,Oct-1996,5,0.005
+earliest_cr_line,Dec-1996,5,0.005
+earliest_cr_line,Nov-2002,5,0.005
+earliest_cr_line,Nov-2005,5,0.005
+earliest_cr_line,Aug-2002,5,0.005
+earliest_cr_line,Nov-2003,5,0.005
+earliest_cr_line,Jan-1996,5,0.005
+earliest_cr_line,Feb-1999,5,0.005
+earliest_cr_line,Apr-1999,5,0.005
+earliest_cr_line,Sep-1995,5,0.005
+earliest_cr_line,Dec-2004,5,0.005
+earliest_cr_line,Apr-1996,5,0.005
+earliest_cr_line,Apr-2008,5,0.005
+earliest_cr_line,Jul-2003,5,0.005
+earliest_cr_line,Jan-2002,5,0.005
+earliest_cr_line,Jul-1997,5,0.005
+earliest_cr_line,Apr-2002,5,0.005
+earliest_cr_line,Apr-2000,5,0.005
+earliest_cr_line,Jul-1994,5,0.005
+earliest_cr_line,Nov-1997,5,0.005
+earliest_cr_line,Mar-2002,4,0.004
+earliest_cr_line,Jul-2008,4,0.004
+earliest_cr_line,Sep-2005,4,0.004
+earliest_cr_line,Dec-2000,4,0.004
+earliest_cr_line,Apr-2001,4,0.004
+earliest_cr_line,Dec-1987,4,0.004
+earliest_cr_line,Jun-1997,4,0.004
+earliest_cr_line,May-1997,4,0.004
+earliest_cr_line,Oct-1993,4,0.004
+earliest_cr_line,Apr-2003,4,0.004
+earliest_cr_line,Feb-2000,4,0.004
+earliest_cr_line,Nov-2007,4,0.004
+earliest_cr_line,Mar-2001,4,0.004
+earliest_cr_line,Jul-1986,4,0.004
+earliest_cr_line,Mar-1995,4,0.004
+earliest_cr_line,Nov-1994,4,0.004
+earliest_cr_line,Oct-1995,4,0.004
+earliest_cr_line,Sep-1999,4,0.004
+earliest_cr_line,Jun-1993,4,0.004
+earliest_cr_line,May-2002,4,0.004
+earliest_cr_line,Jul-2001,4,0.004
+earliest_cr_line,Oct-1985,4,0.004
+earliest_cr_line,Jun-1996,4,0.004
+earliest_cr_line,Jul-1999,4,0.004
+earliest_cr_line,Dec-1995,4,0.004
+earliest_cr_line,Jan-2001,4,0.004
+earliest_cr_line,Jan-2006,4,0.004
+earliest_cr_line,Dec-1997,4,0.004
+earliest_cr_line,May-2005,4,0.004
+earliest_cr_line,Apr-1994,4,0.004
+earliest_cr_line,Aug-1997,4,0.004
+earliest_cr_line,Apr-2005,4,0.004
+earliest_cr_line,Jan-1993,4,0.004
+earliest_cr_line,Apr-1998,4,0.004
+earliest_cr_line,Dec-1999,4,0.004
+earliest_cr_line,Apr-1989,3,0.003
+earliest_cr_line,Apr-2006,3,0.003
+earliest_cr_line,Jul-1993,3,0.003
+earliest_cr_line,Apr-2007,3,0.003
+earliest_cr_line,Nov-2004,3,0.003
+earliest_cr_line,Sep-1986,3,0.003
+earliest_cr_line,Nov-1995,3,0.003
+earliest_cr_line,Oct-2003,3,0.003
+earliest_cr_line,May-1993,3,0.003
+earliest_cr_line,Jan-2005,3,0.003
+earliest_cr_line,Mar-2006,3,0.003
+earliest_cr_line,Apr-1997,3,0.003
+earliest_cr_line,Jan-2004,3,0.003
+earliest_cr_line,Nov-2006,3,0.003
+earliest_cr_line,Oct-2005,3,0.003
+earliest_cr_line,Jan-1990,3,0.003
+earliest_cr_line,Jul-1989,3,0.003
+earliest_cr_line,Feb-1994,3,0.003
+earliest_cr_line,Dec-1994,3,0.003
+earliest_cr_line,Dec-1992,3,0.003
+earliest_cr_line,Jan-1998,3,0.003
+earliest_cr_line,Oct-1990,3,0.003
+earliest_cr_line,Nov-2000,3,0.003
+earliest_cr_line,Apr-2004,3,0.003
+earliest_cr_line,Jan-2007,3,0.003
+earliest_cr_line,Nov-1991,3,0.003
+earliest_cr_line,Aug-1996,3,0.003
+earliest_cr_line,May-2001,3,0.003
+earliest_cr_line,Aug-1994,3,0.003
+earliest_cr_line,Feb-1998,3,0.003
+earliest_cr_line,Jun-2010,3,0.003
+earliest_cr_line,Jan-2003,3,0.003
+earliest_cr_line,May-1995,3,0.003
+earliest_cr_line,May-2011,3,0.003
+earliest_cr_line,Nov-1993,3,0.003
+earliest_cr_line,Nov-2010,3,0.003
+earliest_cr_line,Aug-2004,3,0.003
+earliest_cr_line,Oct-1998,3,0.003
+earliest_cr_line,Sep-1987,3,0.003
+earliest_cr_line,Dec-2005,3,0.003
+earliest_cr_line,Mar-1990,3,0.003
+earliest_cr_line,Apr-1985,2,0.002
+earliest_cr_line,Aug-2008,2,0.002
+earliest_cr_line,May-2004,2,0.002
+earliest_cr_line,May-2012,2,0.002
+earliest_cr_line,May-2010,2,0.002
+earliest_cr_line,Mar-1997,2,0.002
+earliest_cr_line,Oct-1987,2,0.002
+earliest_cr_line,Mar-1998,2,0.002
+earliest_cr_line,Dec-2003,2,0.002
+earliest_cr_line,Aug-1983,2,0.002
+earliest_cr_line,Aug-1992,2,0.002
+earliest_cr_line,Oct-2001,2,0.002
+earliest_cr_line,Jul-2011,2,0.002
+earliest_cr_line,Jun-1998,2,0.002
+earliest_cr_line,Jan-1980,2,0.002
+earliest_cr_line,Aug-1985,2,0.002
+earliest_cr_line,Feb-2011,2,0.002
+earliest_cr_line,Feb-2008,2,0.002
+earliest_cr_line,Jan-1991,2,0.002
+earliest_cr_line,Apr-2009,2,0.002
+earliest_cr_line,May-1994,2,0.002
+earliest_cr_line,Aug-2013,2,0.002
+earliest_cr_line,May-2006,2,0.002
+earliest_cr_line,Aug-1989,2,0.002
+earliest_cr_line,Apr-1995,2,0.002
+earliest_cr_line,Feb-1992,2,0.002
+earliest_cr_line,Aug-2011,2,0.002
+earliest_cr_line,Jan-1994,2,0.002
+earliest_cr_line,Oct-2011,2,0.002
+earliest_cr_line,Jun-2006,2,0.002
+earliest_cr_line,Jul-1990,2,0.002
+earliest_cr_line,May-1992,2,0.002
+earliest_cr_line,Sep-2007,2,0.002
+earliest_cr_line,Oct-1999,2,0.002
+earliest_cr_line,Apr-1991,2,0.002
+earliest_cr_line,Dec-2007,2,0.002
+earliest_cr_line,Mar-1993,2,0.002
+earliest_cr_line,Jul-1996,2,0.002
+earliest_cr_line,Aug-1988,2,0.002
+earliest_cr_line,Mar-2007,2,0.002
+earliest_cr_line,Apr-2011,2,0.002
+earliest_cr_line,Feb-2006,2,0.002
+earliest_cr_line,Jan-1997,2,0.002
+earliest_cr_line,Aug-1999,2,0.002
+earliest_cr_line,Mar-2013,2,0.002
+earliest_cr_line,Jun-2007,2,0.002
+earliest_cr_line,Mar-2008,2,0.002
+earliest_cr_line,Jul-1995,2,0.002
+earliest_cr_line,Apr-1990,2,0.002
+earliest_cr_line,Nov-1986,2,0.002
+earliest_cr_line,Nov-1990,2,0.002
+earliest_cr_line,Aug-1991,2,0.002
+earliest_cr_line,Nov-1988,2,0.002
+earliest_cr_line,Jan-1987,2,0.002
+earliest_cr_line,Jul-2005,2,0.002
+earliest_cr_line,Oct-1978,2,0.002
+earliest_cr_line,Oct-1994,2,0.002
+earliest_cr_line,Nov-2011,2,0.002
+earliest_cr_line,Dec-2006,2,0.002
+earliest_cr_line,Jul-1991,2,0.002
+earliest_cr_line,Feb-1993,2,0.002
+earliest_cr_line,May-1998,2,0.002
+earliest_cr_line,Feb-1997,2,0.002
+earliest_cr_line,Oct-2008,2,0.002
+earliest_cr_line,Apr-1986,2,0.002
+earliest_cr_line,Jun-1989,2,0.002
+earliest_cr_line,Sep-1992,2,0.002
+earliest_cr_line,Dec-1988,2,0.002
+earliest_cr_line,Feb-1990,2,0.002
+earliest_cr_line,Sep-1989,2,0.002
+earliest_cr_line,Oct-2000,2,0.002
+earliest_cr_line,Dec-2012,2,0.002
+earliest_cr_line,Dec-1993,2,0.002
+earliest_cr_line,Aug-1984,2,0.002
+earliest_cr_line,Jul-1998,2,0.002
+earliest_cr_line,Nov-2009,2,0.002
+earliest_cr_line,Jul-2007,2,0.002
+earliest_cr_line,Oct-2009,2,0.002
+earliest_cr_line,May-2008,2,0.002
+earliest_cr_line,Aug-2009,1,0.001
+earliest_cr_line,Jan-2014,1,0.001
+earliest_cr_line,Apr-1987,1,0.001
+earliest_cr_line,Mar-1983,1,0.001
+earliest_cr_line,Sep-1962,1,0.001
+earliest_cr_line,Jan-2013,1,0.001
+earliest_cr_line,May-1981,1,0.001
+earliest_cr_line,Oct-2013,1,0.001
+earliest_cr_line,Jul-1979,1,0.001
+earliest_cr_line,Sep-1975,1,0.001
+earliest_cr_line,Nov-1982,1,0.001
+earliest_cr_line,Sep-1985,1,0.001
+earliest_cr_line,Aug-2010,1,0.001
+earliest_cr_line,Jul-2012,1,0.001
+earliest_cr_line,Sep-1993,1,0.001
+earliest_cr_line,Oct-1991,1,0.001
+earliest_cr_line,Feb-2010,1,0.001
+earliest_cr_line,Jun-1980,1,0.001
+earliest_cr_line,Jan-2010,1,0.001
+earliest_cr_line,Jan-1995,1,0.001
+earliest_cr_line,Oct-1984,1,0.001
+earliest_cr_line,Mar-1994,1,0.001
+earliest_cr_line,Jun-1982,1,0.001
+earliest_cr_line,Nov-1992,1,0.001
+earliest_cr_line,Oct-2007,1,0.001
+earliest_cr_line,Jul-1987,1,0.001
+earliest_cr_line,May-1986,1,0.001
+earliest_cr_line,Dec-2009,1,0.001
+earliest_cr_line,Nov-1989,1,0.001
+earliest_cr_line,Dec-1991,1,0.001
+earliest_cr_line,Feb-1971,1,0.001
+earliest_cr_line,May-1984,1,0.001
+earliest_cr_line,Jun-1999,1,0.001
+earliest_cr_line,Jan-2009,1,0.001
+earliest_cr_line,Oct-1981,1,0.001
+earliest_cr_line,Sep-1977,1,0.001
+earliest_cr_line,May-1991,1,0.001
+earliest_cr_line,Mar-1984,1,0.001
+earliest_cr_line,May-1985,1,0.001
+earliest_cr_line,Apr-1993,1,0.001
+earliest_cr_line,Jun-1985,1,0.001
+earliest_cr_line,Jun-2005,1,0.001
+earliest_cr_line,Oct-1988,1,0.001
+earliest_cr_line,Jul-2013,1,0.001
+earliest_cr_line,Feb-1995,1,0.001
+earliest_cr_line,Jul-1978,1,0.001
+earliest_cr_line,Oct-1992,1,0.001
+earliest_cr_line,Jul-2010,1,0.001
+earliest_cr_line,Dec-1971,1,0.001
+earliest_cr_line,Mar-1989,1,0.001
+earliest_cr_line,Aug-1967,1,0.001
+earliest_cr_line,Jun-1977,1,0.001
+earliest_cr_line,Jul-2000,1,0.001
+earliest_cr_line,Mar-1996,1,0.001
+earliest_cr_line,Sep-1990,1,0.001
+earliest_cr_line,Feb-1984,1,0.001
+earliest_cr_line,Apr-2012,1,0.001
+earliest_cr_line,Aug-1974,1,0.001
+earliest_cr_line,Mar-1999,1,0.001
+earliest_cr_line,Mar-1960,1,0.001
+earliest_cr_line,Nov-2008,1,0.001
+earliest_cr_line,Jan-1983,1,0.001
+earliest_cr_line,Mar-2012,1,0.001
+earliest_cr_line,Mar-1979,1,0.001
+earliest_cr_line,Dec-2008,1,0.001
+earliest_cr_line,Nov-1996,1,0.001
+earliest_cr_line,Sep-2012,1,0.001
+earliest_cr_line,Sep-1976,1,0.001
+earliest_cr_line,Mar-2011,1,0.001
+earliest_cr_line,Sep-1994,1,0.001
+earliest_cr_line,Feb-1986,1,0.001
+earliest_cr_line,Sep-1991,1,0.001
+earliest_cr_line,Apr-1988,1,0.001
+earliest_cr_line,Dec-1990,1,0.001
+earliest_cr_line,Sep-2008,1,0.001
+earliest_cr_line,Jul-1984,1,0.001
+earliest_cr_line,Jun-1994,1,0.001
+earliest_cr_line,Jul-1970,1,0.001
+earliest_cr_line,Jun-1992,1,0.001
+earliest_cr_line,Jun-1995,1,0.001
+earliest_cr_line,Oct-1983,1,0.001
+earliest_cr_line,Feb-1991,1,0.001
+earliest_cr_line,Sep-1997,1,0.001
+earliest_cr_line,Oct-2010,1,0.001
+earliest_cr_line,May-1983,1,0.001
+earliest_cr_line,Dec-1982,1,0.001
+earliest_cr_line,May-1990,1,0.001
+earliest_cr_line,Nov-1987,1,0.001
+earliest_cr_line,Mar-1974,1,0.001
+earliest_cr_line,Sep-2010,1,0.001
+earliest_cr_line,Aug-1979,1,0.001
+earliest_cr_line,Sep-1988,1,0.001
+earliest_cr_line,Jun-2008,1,0.001
+earliest_cr_line,May-1988,1,0.001
+earliest_cr_line,Mar-2010,1,0.001
+earliest_cr_line,Mar-1986,1,0.001
+earliest_cr_line,Feb-1983,1,0.001
+earliest_cr_line,Nov-1978,1,0.001
+earliest_cr_line,Mar-1991,1,0.001
+earliest_cr_line,Dec-1986,1,0.001
+earliest_cr_line,Mar-1982,1,0.001
+earliest_cr_line,Feb-2001,1,0.001
+earliest_cr_line,Jan-1992,1,0.001
+earliest_cr_line,Oct-2012,1,0.001
+earliest_cr_line,Mar-1980,1,0.001
+earliest_cr_line,May-1973,1,0.001
+earliest_cr_line,Mar-1985,1,0.001
+earliest_cr_line,Dec-1983,1,0.001
+earliest_cr_line,May-1982,1,0.001
+earliest_cr_line,May-2007,1,0.001
+earliest_cr_line,Jun-1991,1,0.001
+earliest_cr_line,Apr-1984,1,0.001
+earliest_cr_line,Aug-1990,1,0.001
+earliest_cr_line,Apr-1976,1,0.001
+earliest_cr_line,Jun-1978,1,0.001
+earliest_cr_line,Feb-1989,1,0.001
+earliest_cr_line,Jun-1987,1,0.001
+earliest_cr_line,Jul-1976,1,0.001
+initial_list_status,w,616,0.616
+initial_list_status,f,384,0.384
+debt_settlement_flag,N,970,0.97
+debt_settlement_flag,Y,30,0.03
