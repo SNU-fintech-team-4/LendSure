@@ -1,7 +1,8 @@
 
 
-
 *.idea/
+final/data/
+
 Domain-team/lending_club_2020_train.csv
 final/lending_club_2020_train.csv
 final/Data_v1.csv
